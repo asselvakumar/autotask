@@ -1,4 +1,4 @@
-# Technical Assignment
+# Sample project
 The task is to complete below listed items.
 1) Create a basic API
 2) Enable Logging
